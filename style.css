@@ -424,6 +424,7 @@ main {
   }
 
   .service-info__text p {
+    padding: 0;
     line-height: 20px;
     max-width: 490px;
     max-height: 190px;
